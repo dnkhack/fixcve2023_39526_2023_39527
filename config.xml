@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>fixcwe79cwe89</name>
+	<displayName><![CDATA[CWE-79_CWE-89]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[CWE-79 CVE-2023-30838 CWE-89 CVE-2023-30839]]></description>
+	<author><![CDATA[DNK]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
